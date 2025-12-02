@@ -16,5 +16,5 @@ Mesh topology, WLAN, firewalls, LAN/WAN, network observability, secure architect
 
 
 Stephen Ettienne
-Security+ Certified | Cybersecurity Analyst (Entry-Level)
+Security+ Certified | Cybersecurity Analyst
 GitHub: https://github.com/settienne33
